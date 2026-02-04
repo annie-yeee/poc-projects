@@ -1,3 +1,2 @@
-
-GitHub Actions 첫 테스트용
-  - workflow는 .github/workflows 에서 관리
+GitHub Actions 첫 테스트
+  - 실제 workflow: .github/workflows/first.yml
